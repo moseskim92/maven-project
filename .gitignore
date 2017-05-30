@@ -10,7 +10,6 @@ target
 .classpath
 .project
 .settings
-mule-project.xml
 .mule
 
 #-----------#
